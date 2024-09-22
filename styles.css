@@ -42,6 +42,8 @@ img {
   color: white;
   margin-top: 1.5rem;
   margin-bottom: 0.25rem;
+  font-weight: 600;
+  vertical-align: top;
 }
 .profile-details {
   margin: 0;
