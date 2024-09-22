@@ -67,11 +67,12 @@ img {
   /* /* width: 19em; */
   /* height: 2.8125em; */
   font-size: 0.875rem;
+  line-height: 150%;
   padding: 0.75rem 0.5rem;
   border-radius: 8px;
   font-weight: 500;
   background-color: var(--grey700);
-  border: none;
+  border: 0.5px solid var(--grey700);
   color: var(--white);
   font-weight: bold;
 }
