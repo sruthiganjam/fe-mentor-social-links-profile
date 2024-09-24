@@ -38,7 +38,7 @@ img {
 }
 .profile-name {
   font-size: 1.5rem;
-  line-height: 150%;
+  line-height: 1.5;
   color: white;
   margin-top: 1.5rem;
   margin-bottom: 0.25rem;
@@ -65,11 +65,12 @@ img {
   gap: 1rem;
 }
 .social-link {
+  text-decoration: none;
   width: 19rem;
   /* /* width: 19em; */
   /* height: 2.8125em; */
   font-size: 0.875rem;
-  line-height: 150%;
+  line-height: 1.5;
   padding: 0.75rem 0.5rem;
   border-radius: 8px;
   font-weight: 500;
